@@ -1,4 +1,5 @@
-package pack_loginservlet;
+package pack_dto;
+
 
 import java.util.HashMap;
 
